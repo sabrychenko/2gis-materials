@@ -11,3 +11,4 @@
 * ``/MaterialsApp/data/cities/**``
  
 При деплое в папку fonts добавить шрифт SuisseIntl-Cond.
+[![Run on Repl.it](https://repl.it/badge/github/2gis/2gis-materials)](https://repl.it/github/2gis/2gis-materials)
